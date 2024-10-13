@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Patañjaliyogaśāstra</title></title>
+            
+         <editor><persName>test</persName><orgName>test</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2024</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>University of Pennsylvania Library</orgName>
+                  </repository>
+                  <idno type="shelfmark">Coll. 390 1923</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary>Die vollständige Papierhandschrift in Devanāgarī der <hi rend="italic">TVś</hi> auf 57 Blättern enthält das <hi rend="italic">PYŚ</hi> leicht eingerückt auf der Mitte der Folios. Zwischen dem <hi rend="italic">PYŚ</hi> und der darüber und darunter stehenden <hi rend="italic">TVś</hi>....</summary>
+                  
+               <msItem xml:id="Pvn2" defective="false"><title xml:lang="sa">Pātañjalayogaśāstra</title><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi" rend="manuscript">
+                     <supportDesc material="paper">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="57"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              <width quantity="290"/>
+                              <height quantity="130"/>
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="20 23" style="tripāṭha" streams="2"/>
+                     </layoutDesc>
+                  </objectDesc><handDesc><handNote scope="sole" script="devanagari" medium="ink black"/></handDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://colenda.library.upenn.edu/items/ark:/81431/p37c5v/manifest"/></facsimile>
+<text corresp="#Pvn2" xml:lang="sa"><body>
+            <div n="1">
+                <p>
+                    <milestone n="1r" unit="folio" facs="2"/>
+                    <lb n="1"/>|| śrīmahāgaṇapataye namaḥ ||
+                </p>
+                <l xml:id="YS1.1">|| atha yogānuśāsanam ||</l>
+                <p xml:id="YS1.1c">athety ayam adhikārārthaḥ || yogānuśāsanaṃ śāstram adhikṛtam || śrīrāma || <pb n="2r"/><lb n="1"/>veditavyaṃ | yogaḥ samādhiḥ sa ca sārvabhaumaḥ cittasya dharmaḥ | kṣiptaṃ <subst>m<del>u</del><add>ū</add></subst>ḍhaṃ vikṣiptam ekāgraṃ niruddham iti cittabhūmayaḥ | tatra vikṣipte cetasi vikṣepopasarjjanī<lb n="2"/>bhūtaḥ samādhir na yogapakṣe varttate || <pb n="2v" facs="2"/><lb n="1"/>yas tv ekāgre cetasi sadbhūtam arthaṃ pradyotayati kṣiṇoti ca kleśān karmabaṃdhanāni ślathayati nirodham abhumukhaṃ karoti sa saṃprajñāto yoga ity ākhyāyate | sa <lb n="2"/>ca vitarkānugato vicārānugata ānaṃdānugato 'smitānugata ity upariṣṭān na vedayiṣyāmaḥ | sarvavṛttinirodhatve tv asaṃprajñātaḥ samādhiḥ | tasya lakṣaṇā<lb n="3"/>bhidhitsayedaṃ sūtraṃ pravavṛte |</p>
+            </div>
+        </body></text></TEI>
